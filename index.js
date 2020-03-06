@@ -30,6 +30,7 @@ async function start(){
 
     return selectedPrefixedText;
     }
+    console.log(content)
     console.log(`\n\t\t\t 🤖\tBeep Beep\t🤖\n\n\n`)
 }
 
